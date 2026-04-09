@@ -9,3 +9,15 @@
 
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/5fc848d9-0e3e-4e9d-9dd8-79a078a36415" />
 
+---
+
+# SUM
+
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/57470266-7571-4d5e-9cb3-4b8d0c32e7fc" />
+
+---
+
+# MAX Y MIN
+
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/b624785a-bed7-460f-962c-78f38a6c6fed" />
+
