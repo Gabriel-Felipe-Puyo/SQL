@@ -21,3 +21,11 @@
 
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/b624785a-bed7-460f-962c-78f38a6c6fed" />
 
+---
+
+# EJEMPLO
+
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/9c913b23-1f28-451e-860f-4567af768d97" />
+<img width="1323" height="527" alt="image" src="https://github.com/user-attachments/assets/9c913b23-1f28-451e-860f-4567af768d97" />
+
+
