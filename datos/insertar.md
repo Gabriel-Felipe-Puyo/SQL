@@ -11,4 +11,9 @@
 
 <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/e8f93669-bd91-4751-a5ca-8e95d04c4966" />
 
+## Uso de secuencias
+
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/91f13eb9-968d-48cf-8f5e-70da4361bb5d" />
+
+
 
