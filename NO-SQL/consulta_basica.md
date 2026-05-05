@@ -32,6 +32,6 @@ Supongamos que deseas buscar todos los documentos en la colección listings dond
 ```javaScript
 db.listings.find(
   { price: { $gt: 100 } },  // Filtro
-  { name: 1, price: 1 }     // Proyección
+  { name: 1, price: 1 }     // Proyección / columnas a mostrar
 );
 ```
